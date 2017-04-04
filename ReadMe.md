@@ -1,8 +1,8 @@
 Languages to implement
-- Go
-- Java
-- C++
-- Python
-- Scala
-- Ruby
-- Node
+- Go (Visual Studio Code)
+- Java (Eclipse)
+- C++ (Eclipse)
+- Python (Sublime)
+- Scala (IntelliJ)
+- Ruby (EMacs)
+- JavaScript (Visual Studio Code)
